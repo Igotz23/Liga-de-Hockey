@@ -103,7 +103,7 @@ public class Dashboard extends JFrame {
 		btnSailkapena.setBounds(245, -3, 144, 23);
 		contentPane.add(btnSailkapena);
 		
-		JButton btnJaurdunaldia = new JButton("Jaurdunaldia\r\n");
+		JButton btnJaurdunaldia = new JButton("Jaurdunaldiaa\r\n");
 		btnJaurdunaldia.setBounds(0, 0, 144, 23);
 		contentPane.add(btnJaurdunaldia);
 		btnJaurdunaldia.addActionListener(new ActionListener() {
