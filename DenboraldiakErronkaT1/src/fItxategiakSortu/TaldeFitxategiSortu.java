@@ -1,26 +1,34 @@
-package T1ERRONKA;
+package fItxategiakSortu;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.util.ArrayList;
 import java.util.List;
 
+import T1ERRONKA.Taldeak;
+
+/**
+ * Taldeak fitxategiak sortzeko 
+ */
 public class TaldeFitxategiSortu {
 	
-	 private static List<Taldeak> taldeakList;
+	 @SuppressWarnings({ "javadoc", "unused" })
+	private static List<Taldeak> taldeakList;
 	 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Taldeak carolinaHurricanes = new Taldeak("Carolina Hurricanes",null,null,null);
-	    Taldeak columbusBlueJackets = new Taldeak("Columbus Blue Jackets",null,null,null);
-		Taldeak newJerseyDevils = new Taldeak("New Jersey Devils",null,null,null);
-		Taldeak newYorkIslanders = new Taldeak("New York Islanders",null,null,null);
-		Taldeak newYorkRangers = new Taldeak("New York Rangers",null,null,null);
-		Taldeak philadelphiaFlyers = new Taldeak("Philadelphia Flyers",null,null,null);
-		Taldeak pittsburghPenguins = new Taldeak("Pittsburgh Penguins",null,null,null);
-		Taldeak washingtonCapitals = new Taldeak("Washington Capitals",null,null,null);
+		Taldeak carolinaHurricanes = new Taldeak(1,"Carolina Hurricanes",0,null,null);
+	    Taldeak columbusBlueJackets = new Taldeak(2,"Columbus Blue Jackets",0,null,null);
+		Taldeak newJerseyDevils = new Taldeak(3,"New Jersey Devils",0,null,null);
+		Taldeak newYorkIslanders = new Taldeak(4,"New York Islanders",0,null,null);
+		Taldeak newYorkRangers = new Taldeak(5,"New York Rangers",0,null,null);
+		Taldeak philadelphiaFlyers = new Taldeak(6,"Philadelphia Flyers",0,null,null);
+		Taldeak pittsburghPenguins = new Taldeak(7,"Pittsburgh Penguins",0,null,null);
+		Taldeak washingtonCapitals = new Taldeak(8,"Washington Capitals",0,null,null);
 
 		
 		

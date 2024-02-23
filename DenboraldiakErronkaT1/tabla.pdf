@@ -1,0 +1,24 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 2 0 R
+/Contents 4 0 R
+>>
+endobj
+2 0 obj
+<<
+>>
+endobj
+4 0 obj
+<<
+/Length 0
+>>
+stream
+Nombre	Edad	Género	
+Juan	25	Masculino	
+María	30	Femenino	
+endstream
+endobj
+%%EOF

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<denboraldia>
+	<jardunaldia.1>
+		<partida id="1">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Washington Capitals</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.2>
+		<partida id="1">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New York Rangers</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New York Islanders</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.3>
+		<partida id="1">
+			<taldea>Washington Capitals</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.4>
+		<partida id="1">
+			<taldea>New York Rangers</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Washington Capitals</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New York Islanders</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.5>
+		<partida id="1">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New York Rangers</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.6>
+		<partida id="1">
+			<taldea>New York Islanders</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Washington Capitals</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.7>
+		<partida id="1">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>Columbus Blue Jackets</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New York Islanders</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New York Rangers</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.6>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New York Islanders</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New York Rangers</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.7>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Washington Capitals</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.8>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New York Rangers</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>New York Islanders</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.9>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.10>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>New York Islanders</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>Washington Capitals</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.11>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Pittsburgh Penguins</taldea>
+			<taldea>New Jersey Devils</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New York Rangers</taldea>
+			<taldea>Philadelphia Flyers</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Carolina Hurricanes</taldea>
+			<taldea>Washington Capitals</taldea>
+		</partida>
+	</jardunaldia>
+	<jardunaldia.12>
+		<partida id="1">
+			<taldea>Columbus Blue Jackets</taldea>
+			<taldea>Pittsburgh Penguins</taldea>
+		</partida>
+		<partida id="2">
+			<taldea>Philadelphia Flyers</taldea>
+			<taldea>New York Islanders</taldea>
+		</partida>
+		<partida id="3">
+			<taldea>New Jersey Devils</taldea>
+			<taldea>Carolina Hurricanes</taldea>
+		</partida>
+		<partida id="4">
+			<taldea>Washington Capitals</taldea>
+			<taldea>New York Rangers</taldea>
+		</partida>
+	</jardunaldia>
+</denboraldiak>

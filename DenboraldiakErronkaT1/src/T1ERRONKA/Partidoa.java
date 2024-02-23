@@ -1,8 +1,17 @@
 package T1ERRONKA;
 
+import java.io.Serializable;
 import java.util.Objects;
-
-public class Partidoa {
+/*
+ * partidoetarako balioko digu
+ */
+@SuppressWarnings("javadoc")
+public class Partidoa implements Serializable{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 8482213710866846802L;
 	private int etxekoemaitza;
 	private int idEtxekoTaldea;
 	private String etxekoTaldea;
@@ -13,13 +22,79 @@ public class Partidoa {
 	
 	public Partidoa() {}
 	
-	public Partidoa(int etxekoemaitza, String etxekoTaldea, int kanpokoEmaitza, String kanpokoTaldea) {
+
+	
+
+	/**
+	 * @param etxekoemaitza
+	 * @param idEtxekoTaldea
+	 * @param kanpokoEmaitza
+	 * @param idKanpokoTaldea
+	 */
+	public Partidoa(int etxekoemaitza, int idEtxekoTaldea, int kanpokoEmaitza, int idKanpokoTaldea) {
 		super();
 		this.etxekoemaitza = etxekoemaitza;
-		this.etxekoTaldea = etxekoTaldea;
+		this.idEtxekoTaldea = idEtxekoTaldea;
 		this.kanpokoEmaitza = kanpokoEmaitza;
+		this.idKanpokoTaldea = idKanpokoTaldea;
+	}
+
+
+	/**
+	 * @param idEtxekoTaldea
+	 * @param etxekoTaldea
+	 * @param idKanpokoTaldea
+	 * @param kanpokoTaldea
+	 */
+	public Partidoa(int idEtxekoTaldea, String etxekoTaldea, int idKanpokoTaldea, String kanpokoTaldea) {
+		super();
+		this.idEtxekoTaldea = idEtxekoTaldea;
+		this.etxekoTaldea = etxekoTaldea;
+		this.idKanpokoTaldea = idKanpokoTaldea;
 		this.kanpokoTaldea = kanpokoTaldea;
 	}
+	
+	
+
+	/**
+	 * @return the idEtxekoTaldea
+	 */
+	public int getIdEtxekoTaldea() {
+		return idEtxekoTaldea;
+	}
+
+
+
+
+	/**
+	 * @param idEtxekoTaldea the idEtxekoTaldea to set
+	 */
+	public void setIdEtxekoTaldea(int idEtxekoTaldea) {
+		this.idEtxekoTaldea = idEtxekoTaldea;
+	}
+
+
+
+
+	/**
+	 * @return the idKanpokoTaldea
+	 */
+	public int getIdKanpokoTaldea() {
+		return idKanpokoTaldea;
+	}
+
+
+
+
+	/**
+	 * @param idKanpokoTaldea the idKanpokoTaldea to set
+	 */
+	public void setIdKanpokoTaldea(int idKanpokoTaldea) {
+		this.idKanpokoTaldea = idKanpokoTaldea;
+	}
+
+
+
 
 	public int getEtxekoemaitza() {
 		return etxekoemaitza;
